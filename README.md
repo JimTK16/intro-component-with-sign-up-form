@@ -12,7 +12,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/JimTK16/intro-component-with-sign-up-form
-- Live Site URL: https://four-card-feature-section-by-jim.netlify.app/
+- Live Site URL: https://intro-component-by-jim.netlify.app/
 
 ## My process
 
@@ -26,5 +26,5 @@ Users should be able to:
 
 ### What I learned
 
-- Using the flex property for flex items to adjust their widths to match the design.
-- Plan ahead for the design, combine layout settings for both desktop and mobile so that it would be easier when buiding the desktop version when the mobile version finished.
+- More practicing with box shadow properties.
+- Using JS to perform form validation.
