@@ -95,7 +95,7 @@ body {
   display: flex;
   border: 1px solid rgba(128, 128, 128, 0.374);
   padding: 1.2rem 2rem;
-  justify-content: space-between;
+  justify-content: space-around;
   border-radius: 6px;
 }
 
@@ -104,6 +104,7 @@ body {
   border: none;
   background-color: transparent;
   font-size: 1.4rem;
+  max-width: calc(100% - 4rem);
 }
 
 .userInput::placeholder {
